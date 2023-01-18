@@ -1,5 +1,5 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("/images/gym.jpg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: white;
+    background: #fefae0;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
@@ -37,11 +37,11 @@ button {
 }
 
 #increment-btn {
-    background: #2C2891;
+    background: #ccd5ae;
 }
 
 #save-btn {
-    background: #1C7947;
+    background: #344e41;
 }
 
 #save-el {
